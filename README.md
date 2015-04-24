@@ -9,6 +9,8 @@ The dependencies [JSQMessagesViewController](https://github.com/jessesquires/JSQ
 Add ```github "hemantasapkota/JSQMessagesViewController"``` to your ```cart``` file.
 Execute ```carthage update```
 
+For usage in Swift, don't forget to add ```#import <JSQMessages/JSQMessages.h>``` to your bridging header file.
+
 ### Update Dependencies ###
 
 You might want to update the dependencies to pull in newer changes. To do so:
