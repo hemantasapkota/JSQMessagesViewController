@@ -1,0 +1,6 @@
+framework module JSQMessages {
+  umbrella header "JSQMessages.h"
+
+  export *
+  module * { export * }
+}
